@@ -101,6 +101,19 @@ pip install -e .
 docker-compose up -d
 ```
 
+### Setup Project (Sau khi clone)
+
+Sau khi clone repository, chạy script setup để tạo cấu trúc thư mục:
+
+```bash
+python setup_project.py
+```
+
+Script này sẽ:
+- Tạo các thư mục cần thiết
+- Tạo file cấu hình mẫu
+- Hướng dẫn các bước tiếp theo
+
 ## 📊 Chuẩn bị dữ liệu
 
 ### Cấu trúc dữ liệu

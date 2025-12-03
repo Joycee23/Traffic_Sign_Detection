@@ -40,6 +40,15 @@ data/raw/
 data/processed/
 models/
 !models/.gitkeep
+!models/yolov8/yolov8n.pt  # Include YOLO model file
+
+# Requirements files (include these)
+!requirements.txt
+!requirements-dev.txt
+
+# Docker files (include these)
+!Dockerfile
+!docker-compose.yml
 
 # Training artifacts
 logs/

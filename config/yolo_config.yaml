@@ -47,4 +47,4 @@ training:
     name: SGD
     weight_decay: 0.0005
   patience: 50
-  workers: 8
+  workers: 0  # Set to 0 for Windows compatibility
