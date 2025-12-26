@@ -10,11 +10,11 @@ models:
     input_size:
     - 224
     - 224
-    path: models/cnn/classifier.h5
+    path: models/cnn/best_model.h5
   yolo:
-    confidence: 0.5
+    confidence: 0.2
     iou_threshold: 0.45
-    path: models/yolov8/best.pt
+    path: models/yolov8/train/weights/best.pt
 processing:
   allowed_extensions:
   - .jpg
@@ -25,5 +25,6 @@ processing:
 server:
   debug: false
   host: 0.0.0.0
+  port: 8000
   port: 8000
   reload: false

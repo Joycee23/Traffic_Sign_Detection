@@ -1,0 +1,318 @@
+{
+  "original_to_standard": {
+    "0": {
+      "original_name": "W.224",
+      "standardized_name": "class_00_W.224",
+      "short_name": "c00"
+    },
+    "1": {
+      "original_name": "W.205c",
+      "standardized_name": "class_01_W.205c",
+      "short_name": "c01"
+    },
+    "2": {
+      "original_name": "P.102",
+      "standardized_name": "class_02_P.102",
+      "short_name": "c02"
+    },
+    "3": {
+      "original_name": "R.302a",
+      "standardized_name": "class_03_R.302a",
+      "short_name": "c03"
+    },
+    "4": {
+      "original_name": "W.205a",
+      "standardized_name": "class_04_W.205a",
+      "short_name": "c04"
+    },
+    "5": {
+      "original_name": "W.207",
+      "standardized_name": "class_05_W.207",
+      "short_name": "c05"
+    },
+    "6": {
+      "original_name": "W.201a",
+      "standardized_name": "class_06_W.201a",
+      "short_name": "c06"
+    },
+    "7": {
+      "original_name": "P.123a",
+      "standardized_name": "class_07_P.123a",
+      "short_name": "c07"
+    },
+    "8": {
+      "original_name": "I.434a",
+      "standardized_name": "class_08_I.434a",
+      "short_name": "c08"
+    },
+    "9": {
+      "original_name": "R.303",
+      "standardized_name": "class_09_R.303",
+      "short_name": "c09"
+    },
+    "10": {
+      "original_name": "P.130",
+      "standardized_name": "class_10_P.130",
+      "short_name": "c10"
+    },
+    "11": {
+      "original_name": "I.409",
+      "standardized_name": "class_11_I.409",
+      "short_name": "c11"
+    },
+    "12": {
+      "original_name": "R.415a",
+      "standardized_name": "class_12_R.415a",
+      "short_name": "c12"
+    },
+    "13": {
+      "original_name": "W.245a",
+      "standardized_name": "class_13_W.245a",
+      "short_name": "c13"
+    },
+    "14": {
+      "original_name": "P.106a*Xe tải",
+      "standardized_name": "class_14_P.106a_Xe_tải",
+      "short_name": "c14"
+    },
+    "15": {
+      "original_name": "W.203c",
+      "standardized_name": "class_15_W.203c",
+      "short_name": "c15"
+    },
+    "16": {
+      "original_name": "P.117*",
+      "standardized_name": "class_16_P.117_",
+      "short_name": "c16"
+    },
+    "17": {
+      "original_name": "P.124a*",
+      "standardized_name": "class_17_P.124a_",
+      "short_name": "c17"
+    },
+    "18": {
+      "original_name": "P.107",
+      "standardized_name": "class_18_P.107",
+      "short_name": "c18"
+    },
+    "19": {
+      "original_name": "P.124d",
+      "standardized_name": "class_19_P.124d",
+      "short_name": "c19"
+    },
+    "20": {
+      "original_name": "P.103a",
+      "standardized_name": "class_20_P.103a",
+      "short_name": "c20"
+    },
+    "21": {
+      "original_name": "W.203b",
+      "standardized_name": "class_21_W.203b",
+      "short_name": "c21"
+    },
+    "22": {
+      "original_name": "W.221b",
+      "standardized_name": "class_22_W.221b",
+      "short_name": "c22"
+    },
+    "23": {
+      "original_name": "P.111",
+      "standardized_name": "class_23_P.111",
+      "short_name": "c23"
+    },
+    "24": {
+      "original_name": "P.129",
+      "standardized_name": "class_24_P.129",
+      "short_name": "c24"
+    },
+    "25": {
+      "original_name": "S.505a*Xe máy",
+      "standardized_name": "class_25_S.505a_Xe_máy",
+      "short_name": "c25"
+    },
+    "26": {
+      "original_name": "W.246a",
+      "standardized_name": "class_26_W.246a",
+      "short_name": "c26"
+    },
+    "27": {
+      "original_name": "W.225",
+      "standardized_name": "class_27_W.225",
+      "short_name": "c27"
+    },
+    "28": {
+      "original_name": "S.505a*Xe tải và công",
+      "standardized_name": "class_28_S.505a_Xe_tải_và_công",
+      "short_name": "c28"
+    },
+    "29": {
+      "original_name": "P.104",
+      "standardized_name": "class_29_P.104",
+      "short_name": "c29"
+    },
+    "30": {
+      "original_name": "S.505a*Xe tải",
+      "standardized_name": "class_30_S.505a_Xe_tải",
+      "short_name": "c30"
+    },
+    "31": {
+      "original_name": "Camera",
+      "standardized_name": "class_31_Camera",
+      "short_name": "c31"
+    },
+    "32": {
+      "original_name": "P.123b",
+      "standardized_name": "class_32_P.123b",
+      "short_name": "c32"
+    },
+    "33": {
+      "original_name": "W.202b",
+      "standardized_name": "class_33_W.202b",
+      "short_name": "c33"
+    },
+    "34": {
+      "original_name": "B.8a",
+      "standardized_name": "class_34_B.8a",
+      "short_name": "c34"
+    },
+    "35": {
+      "original_name": "P.137",
+      "standardized_name": "class_35_P.137",
+      "short_name": "c35"
+    },
+    "36": {
+      "original_name": "P.139",
+      "standardized_name": "class_36_P.139",
+      "short_name": "c36"
+    },
+    "37": {
+      "original_name": "W.205b",
+      "standardized_name": "class_37_W.205b",
+      "short_name": "c37"
+    },
+    "38": {
+      "original_name": "P.127*50",
+      "standardized_name": "class_38_P.127_50",
+      "short_name": "c38"
+    },
+    "39": {
+      "original_name": "P.127*60",
+      "standardized_name": "class_39_P.127_60",
+      "short_name": "c39"
+    },
+    "40": {
+      "original_name": "P.127*80",
+      "standardized_name": "class_40_P.127_80",
+      "short_name": "c40"
+    },
+    "41": {
+      "original_name": "P.127*40",
+      "standardized_name": "class_41_P.127_40",
+      "short_name": "c41"
+    },
+    "42": {
+      "original_name": "R.301e",
+      "standardized_name": "class_42_R.301e",
+      "short_name": "c42"
+    },
+    "43": {
+      "original_name": "W.239b*",
+      "standardized_name": "class_43_W.239b_",
+      "short_name": "c43"
+    },
+    "44": {
+      "original_name": "W.233",
+      "standardized_name": "class_44_W.233",
+      "short_name": "c44"
+    },
+    "45": {
+      "original_name": "I.407a",
+      "standardized_name": "class_45_I.407a",
+      "short_name": "c45"
+    },
+    "46": {
+      "original_name": "P.131a",
+      "standardized_name": "class_46_P.131a",
+      "short_name": "c46"
+    },
+    "47": {
+      "original_name": "P.124b1",
+      "standardized_name": "class_47_P.124b1",
+      "short_name": "c47"
+    },
+    "48": {
+      "original_name": "W.210",
+      "standardized_name": "class_48_W.210",
+      "short_name": "c48"
+    },
+    "49": {
+      "original_name": "P.124c",
+      "standardized_name": "class_49_P.124c",
+      "short_name": "c49"
+    },
+    "50": {
+      "original_name": "W.201b",
+      "standardized_name": "class_50_W.201b",
+      "short_name": "c50"
+    },
+    "51": {
+      "original_name": "W.246c",
+      "standardized_name": "class_51_W.246c",
+      "short_name": "c51"
+    }
+  },
+  "standard_to_original": {
+    "class_00_W.224": 0,
+    "class_01_W.205c": 1,
+    "class_02_P.102": 2,
+    "class_03_R.302a": 3,
+    "class_04_W.205a": 4,
+    "class_05_W.207": 5,
+    "class_06_W.201a": 6,
+    "class_07_P.123a": 7,
+    "class_08_I.434a": 8,
+    "class_09_R.303": 9,
+    "class_10_P.130": 10,
+    "class_11_I.409": 11,
+    "class_12_R.415a": 12,
+    "class_13_W.245a": 13,
+    "class_14_P.106a_Xe_tải": 14,
+    "class_15_W.203c": 15,
+    "class_16_P.117_": 16,
+    "class_17_P.124a_": 17,
+    "class_18_P.107": 18,
+    "class_19_P.124d": 19,
+    "class_20_P.103a": 20,
+    "class_21_W.203b": 21,
+    "class_22_W.221b": 22,
+    "class_23_P.111": 23,
+    "class_24_P.129": 24,
+    "class_25_S.505a_Xe_máy": 25,
+    "class_26_W.246a": 26,
+    "class_27_W.225": 27,
+    "class_28_S.505a_Xe_tải_và_công": 28,
+    "class_29_P.104": 29,
+    "class_30_S.505a_Xe_tải": 30,
+    "class_31_Camera": 31,
+    "class_32_P.123b": 32,
+    "class_33_W.202b": 33,
+    "class_34_B.8a": 34,
+    "class_35_P.137": 35,
+    "class_36_P.139": 36,
+    "class_37_W.205b": 37,
+    "class_38_P.127_50": 38,
+    "class_39_P.127_60": 39,
+    "class_40_P.127_80": 40,
+    "class_41_P.127_40": 41,
+    "class_42_R.301e": 42,
+    "class_43_W.239b_": 43,
+    "class_44_W.233": 44,
+    "class_45_I.407a": 45,
+    "class_46_P.131a": 46,
+    "class_47_P.124b1": 47,
+    "class_48_W.210": 48,
+    "class_49_P.124c": 49,
+    "class_50_W.201b": 50,
+    "class_51_W.246c": 51
+  }
+}

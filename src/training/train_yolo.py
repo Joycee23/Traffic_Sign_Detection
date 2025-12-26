@@ -9,7 +9,6 @@ class YOLOTrainer:
             self.config = yaml.safe_load(f)
     
     def train(self):
-        """Train YOLOv8 model"""
         # Load model
         model_name = self.config['model']['name']
         model = YOLO(f"{model_name}.pt" if self.config['model']['pretrained'] else model_name)
@@ -35,7 +34,6 @@ class YOLOTrainer:
             # Optimizer
             optimizer=train_params['optimizer']['name'],
             lr0=train_params['optimizer']['lr'],
-            momentum=train_params['optimizer']['momentum'],
             weight_decay=train_params['optimizer']['weight_decay'],
             
             # Augmentation

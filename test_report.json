@@ -1,0 +1,22 @@
+{
+  "test_date": "2025-12-24T17:37:06.539769",
+  "yolo_model": "models/yolov8/train/weights/best.pt",
+  "cnn_model": "models/cnn/best_model.h5",
+  "num_classes": 52,
+  "validation_results": {
+    "46": {
+      "total": 16,
+      "correct": 8
+    },
+    "49": {
+      "total": 6,
+      "correct": 4
+    }
+  },
+  "recommendations": [
+    "Consider fine-tuning on problematic classes"
+  ],
+  "overall_accuracy": 0.5454545454545454,
+  "total_tested": 22,
+  "correct_detections": 12
+}
